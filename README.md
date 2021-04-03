@@ -1,2 +1,0 @@
-#myApp
-nse app development
